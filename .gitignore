@@ -211,7 +211,10 @@ __marimo__/
 .uv_cache
 
 data/*
-!data/example.csv
+!data/Cars.csv
+!data/experiment_results.csv
+!data/.keeps
+
 models/*
 local.env
 
@@ -219,3 +222,4 @@ local.env
 
 !.devcontainer/dev/.env
 !.keeps
+
